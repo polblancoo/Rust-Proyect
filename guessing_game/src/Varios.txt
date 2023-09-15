@@ -1,0 +1,12 @@
+/*git  pruebas comandos 
+/// git 
+/// git add ._
+/// git reset .
+/// git commit 
+/// git checkout -- .
+/// git log
+/// git commit  --ammed
+/// git checkout -b "nombre de rama "
+/// git checkout master 
+*/ --.-- hbuybyb kn
+juihju
